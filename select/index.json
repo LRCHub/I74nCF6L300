@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ProBox",
+  "base_artist": "SHO",
+  "createdAt": "2026-03-13T05:26:46.554469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Probox",
+      "artist": "Dexta Daps",
+      "has_synced": false,
+      "path": "select/01_Probox_Dexta_Daps.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ProBox",
+      "artist": "SHO",
+      "has_synced": false,
+      "path": "select/pl_01_ProBox_SHO.txt"
+    }
+  ]
+}
